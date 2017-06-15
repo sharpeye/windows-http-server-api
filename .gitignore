@@ -1,0 +1,7 @@
+.vs
+*.VC.opendb 
+*.VC.db
+Debug/
+Release/
+http-server-api-test/Debug/
+http-server-api-test/Release/
